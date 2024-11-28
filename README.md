@@ -4,7 +4,7 @@
 
 This project based on PySpark-FAKER Data. (Extract, Transform, Load) system built using Dagster, designed to analyze macroeconomic data and stock prices. The goal is to understand the impact of macroeconomic indicators, trading volume, and news sentiment on stock prices across various sectors.
 
-  ## Functionalities
+## Functionalities
 This project offers:
 - Automated data extraction and transformation using Dagster.
 - Macroeconomic and stock price correlation analysis.
@@ -15,7 +15,6 @@ This project offers:
 
 ## Installation
   
-
 1. **Clone the Repository**:
    To get started, clone the repository using the following command:
    ```bash
@@ -85,8 +84,9 @@ Follow these steps to run the project:
    - **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
 
 ## Visualisation results of the above pipelines with short descriptions
-
+<p align="center">
 ### Seasonity
+</p>
 ![Seasonality Analysis](data/results/seasonality_analysis.png)
 
 The bar chart illustrates the seasonal patterns in average stock close prices across different sectors. Each sector is represented by two bars: one for the month with the highest average close price and another for the month with the lowest. The sectors included are Automotive, Consumer, and Technology, each with distinct color coding for easy differentiation. This visualization helps identify the months where each sector experiences peak and trough stock prices, providing insights into potential seasonal trends.
