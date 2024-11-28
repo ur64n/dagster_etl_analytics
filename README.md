@@ -84,8 +84,7 @@ Follow these steps to run the project:
    - **Visualization Trigger**: Initiates the visualization process to create a boxplot of the detected price change outliers.
    - **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
 
-![Seasonality Analysis](data/results/seasonality_analysis.png)
-
+### Visualisation results of the above pipelines
 
 
 ### Author: ur64n
