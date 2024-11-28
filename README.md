@@ -107,16 +107,12 @@ The color gradient from blue to red represents the strength and direction of the
 This scatter plot visualizes the relationship between volume anomalies and subsequent price changes over time. Each point represents a significant change in trading volume and its impact on future stock price changes, measured in percentage. The x-axis shows the date, while the y-axis indicates the percentage change in price following the anomaly. The plot highlights how volume anomalies can lead to both positive and negative price movements in the following months.
 
 **Sentiment**
-
 ![Sentiment Impact on Price Change](data/results/sentiment_impact_on_price_change.png)
 
 Correlation matrix illustrating the relationships between macroeconomic indicators and stock prices. The matrix uses a color gradient to represent correlation values, ranging from -1 to 1. Key indicators include inflation, unemployment, interest rates, and average stock close prices. The matrix helps identify the strength and direction of relationships between these variables, providing insights into how macroeconomic factors may influence stock market performance.
 
 **Sensor**
-
 ![Price Change Outliers Boxplot](data/results/price_change_outliers_boxplot.png)
-
-### Boxplot of Price Change Outliers
 
 This boxplot visualizes the distribution of price changes in percentage terms. The central box represents the interquartile range (IQR), with the line inside indicating the median price change. Whiskers extend to show the range of the data, excluding outliers, which are plotted as individual points beyond the whiskers. The plot highlights significant deviations in price changes, providing insights into potential anomalies or extreme values in the dataset.
 
