@@ -14,7 +14,13 @@ This project offers:
 - Real-time monitoring for price changes and anomaly detection.
 
 ## Installation
+  
 
+1. **Clone the Repository**:
+   To get started, clone the repository using the following command:
+   ```bash
+   git clone https://github.com/ur64n/dagster_etl_analytics
+   
 2. **Install Dependencies**:
    After cloning the repository, navigate to the project directory and install all necessary dependencies using the following command:
    ```bash
@@ -77,9 +83,5 @@ Follow these steps to run the project:
    - **Outlier Handling**: Stores outliers for further analysis.
    - **Visualization Trigger**: Initiates the visualization process to create a boxplot of the detected price change outliers.
    - **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
-  
 
-1. **Clone the Repository**:
-   To get started, clone the repository using the following command:
-   ```bash
-   git clone https://github.com/ur64n/dagster_etl_analytics
+### Author: ur64n
