@@ -4,6 +4,41 @@
 
 This project based on PySpark-FAKER Data. (Extract, Transform, Load) system built using Dagster, designed to analyze macroeconomic data and stock prices. The goal is to understand the impact of macroeconomic indicators, trading volume, and news sentiment on stock prices across various sectors.
 
+  ## Functionalities
+This project offers:
+- Automated data extraction and transformation using Dagster.
+- Macroeconomic and stock price correlation analysis.
+- Seasonality detection and visualization.
+- Trading volume anomaly detection and analysis.
+- News sentiment analysis and its impact on stock prices.
+- Real-time monitoring for price changes and anomaly detection.
+
+## Installation
+
+2. **Install Dependencies**:
+   After cloning the repository, navigate to the project directory and install all necessary dependencies using the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   Ensure you have Python and `pip` installed in your environment.
+
+## Usage
+
+Follow these steps to run the project:
+
+1. **Navigate to the Project Directory**:
+   Change your directory to the project folder:
+   ```bash
+   cd /home/urban/Projekty/dagster2/my-dagster-project
+   ```
+
+2. **Start Dagster**:
+   Launch the Dagster development server to access the ETL pipeline and monitor the jobs:
+   ```bash
+   dagster dev
+   ```
+
 ## Project Structure
 
 ### Main Modules
@@ -42,3 +77,9 @@ This project based on PySpark-FAKER Data. (Extract, Transform, Load) system buil
    - **Outlier Handling**: Stores outliers for further analysis.
    - **Visualization Trigger**: Initiates the visualization process to create a boxplot of the detected price change outliers.
    - **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
+  
+
+1. **Clone the Repository**:
+   To get started, clone the repository using the following command:
+   ```bash
+   git clone https://github.com/ur64n/dagster_etl_analytics
