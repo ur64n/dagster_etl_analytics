@@ -33,24 +33,17 @@ This project is (Extract, Transform, Load) system built using Dagster, designed 
    - **load_and_prepare_sentiment_data**: Prepares data for sentiment analysis.
    - **analyze_sentiment**: Analyzes news sentiment.
    - **visualize_sentiment_impact**: Visualizes the impact of sentiment on stock prices.
+   - **Price Change Sensor**: Monitors significant changes in stock prices based on sentiment analysis. It is part of the ETL pipeline and is specifically linked to the `tech_sentiment_job`. This sensor continuously checks for anomalies in price changes and triggers further actions if certain conditions are met.
 
-# Sensor: Price Change Sensor
+### Sensor: Price Change Sensor
 
-## Description
+The **Price Change Sensor** is designed to monitor significant changes in stock prices based on sentiment analysis.
 
-The **Price Change Sensor** is designed to monitor significant changes in stock prices based on sentiment analysis. It is part of the ETL pipeline and is specifically linked to the `tech_sentiment_job`. This sensor continuously checks for anomalies in price changes and triggers further actions if certain conditions are met.
+### Functionality
 
-## Functionality
-
-- **Data Monitoring**: The sensor reads data from a CSV file containing the results of sentiment analysis on stock prices.
-- **Change Detection**: It calculates a hash of the current data to detect any changes since the last evaluation.
-- **Threshold Evaluation**: If the data has changed, the sensor checks for any price changes that exceed a predefined threshold (e.g., 10%).
-- **Outlier Handling**: If outliers are detected, they are stored for further analysis.
-- **Visualization Trigger**: The sensor triggers a visualization process to create a boxplot of the detected price change outliers.
-- **Run Request**: If conditions are met, a new run request is generated to handle the detected changes.
-
-## Key Features
-
-- **Integration with tech_sentiment_job**: The sensor is integrated with the `tech_sentiment_job`, ensuring that it operates within the context of the sentiment analysis pipeline.
-- **Efficient Monitoring**: By using hash calculations, the sensor efficiently detects changes without reprocessing unchanged data.
-- **Automated Visualization**: Automatically generates visualizations for detected anomalies, aiding in quick analysis and decision-making.
+- **Data Monitoring**: Reads data from a CSV file containing the results of sentiment analysis on stock prices.
+- **Change Detection**: Calculates a hash of the current data to detect any changes since the last evaluation.
+- **Threshold Evaluation**: Checks for any price changes that exceed a predefined threshold (e.g., 10%).
+- **Outlier Handling**: Stores outliers for further analysis.
+- **Visualization Trigger**: Initiates the visualization process to create a boxplot of the detected price change outliers.
+- **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
