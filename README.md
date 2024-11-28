@@ -85,7 +85,7 @@ Follow these steps to run the project:
 
 ## Visualisation results of the above pipelines with short descriptions
 <p align="center">
-### Seasonity
+**Seasonity**
 </p>
 ![Seasonality Analysis](data/results/seasonality_analysis.png)
 
