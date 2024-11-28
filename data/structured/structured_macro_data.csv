@@ -1,0 +1,471 @@
+date,indicator,value
+2023-10-07,Unemployment,-1.33
+2023-10-07,Inflation,9.36
+2023-10-07,Inflation,9.36
+2023-10-07,Unemployment,-1.33
+2023-10-07,Unemployment,-1.33
+2023-10-07,Inflation,9.36
+2023-10-08,GDP,6.38
+2023-10-08,GDP,6.38
+2023-10-08,GDP,6.38
+2023-10-09,Unemployment,-1.41
+2023-10-09,Unemployment,-1.41
+2023-10-09,Unemployment,-1.41
+2023-10-14,Inflation,-1.3
+2023-10-14,Inflation,-1.3
+2023-10-14,Inflation,-1.3
+2023-10-15,Interest Rates,7.11
+2023-10-15,Interest Rates,7.11
+2023-10-15,Interest Rates,7.11
+2023-10-21,GDP,-4.09
+2023-10-21,GDP,-4.09
+2023-10-21,GDP,-4.09
+2023-10-27,Interest Rates,0.43
+2023-10-27,Interest Rates,0.43
+2023-10-27,Interest Rates,0.43
+2023-10-29,Interest Rates,-1.69
+2023-10-29,Interest Rates,-1.69
+2023-10-29,Interest Rates,-1.69
+2023-10-31,Interest Rates,-1.36
+2023-10-31,Unemployment,-2.56
+2023-10-31,Interest Rates,-1.36
+2023-10-31,Unemployment,-2.56
+2023-10-31,Unemployment,-2.56
+2023-10-31,Interest Rates,-1.36
+2023-11-02,Unemployment,-1.86
+2023-11-02,Unemployment,-1.86
+2023-11-02,Unemployment,-1.86
+2023-11-03,GDP,6.34
+2023-11-03,GDP,6.34
+2023-11-03,GDP,6.34
+2023-11-07,Inflation,-3.59
+2023-11-07,Inflation,-3.59
+2023-11-07,Inflation,-3.59
+2023-11-23,GDP,7.83
+2023-11-23,GDP,7.83
+2023-11-23,GDP,7.83
+2023-11-26,Unemployment,9.58
+2023-11-26,Unemployment,9.58
+2023-11-26,Unemployment,9.58
+2023-11-29,Interest Rates,-2.63
+2023-11-29,Interest Rates,-2.63
+2023-11-29,Interest Rates,-2.63
+2023-12-09,Unemployment,-3.47
+2023-12-09,Unemployment,-3.47
+2023-12-09,Unemployment,-3.47
+2023-12-13,Interest Rates,2.94
+2023-12-13,Interest Rates,2.94
+2023-12-13,Interest Rates,2.94
+2023-12-14,Interest Rates,7.24
+2023-12-14,Interest Rates,7.24
+2023-12-14,Interest Rates,7.24
+2023-12-17,GDP,2.71
+2023-12-17,GDP,5.95
+2023-12-17,GDP,5.95
+2023-12-17,GDP,5.95
+2023-12-17,GDP,2.71
+2023-12-17,Inflation,5.47
+2023-12-17,Inflation,5.47
+2023-12-17,Inflation,5.47
+2023-12-17,GDP,2.71
+2023-12-18,GDP,3.86
+2023-12-18,GDP,3.86
+2023-12-18,GDP,3.86
+2023-12-20,Unemployment,6.21
+2023-12-20,Unemployment,8.18
+2023-12-20,Unemployment,8.18
+2023-12-20,Unemployment,6.21
+2023-12-20,Unemployment,6.21
+2023-12-20,Unemployment,8.18
+2023-12-22,Inflation,2.64
+2023-12-22,Inflation,2.64
+2023-12-22,Inflation,2.64
+2023-12-27,Inflation,-4.04
+2023-12-27,Inflation,-4.04
+2023-12-27,Inflation,-4.04
+2024-01-02,Interest Rates,-3.18
+2024-01-02,Interest Rates,-3.18
+2024-01-02,Inflation,3.83
+2024-01-02,Inflation,3.83
+2024-01-02,Inflation,3.83
+2024-01-02,Interest Rates,-3.18
+2024-01-03,GDP,5.2
+2024-01-03,GDP,-3.72
+2024-01-03,GDP,-3.72
+2024-01-03,GDP,5.2
+2024-01-03,GDP,-3.72
+2024-01-03,GDP,5.2
+2024-01-06,Inflation,6.05
+2024-01-06,Inflation,6.05
+2024-01-06,Inflation,6.05
+2024-01-07,GDP,-2.71
+2024-01-07,GDP,-2.71
+2024-01-07,GDP,-2.71
+2024-01-11,Interest Rates,8.47
+2024-01-11,Interest Rates,8.47
+2024-01-11,Interest Rates,8.47
+2024-01-21,Inflation,8.17
+2024-01-21,Inflation,-1.02
+2024-01-21,Inflation,8.17
+2024-01-21,Inflation,-1.02
+2024-01-21,Inflation,8.17
+2024-01-21,Inflation,-1.02
+2024-01-29,Interest Rates,4.54
+2024-01-29,Interest Rates,4.54
+2024-01-29,Interest Rates,4.54
+2024-01-30,Inflation,6.6
+2024-01-30,Inflation,6.6
+2024-01-30,Inflation,6.6
+2024-02-08,Interest Rates,3.95
+2024-02-08,Interest Rates,3.95
+2024-02-08,Interest Rates,3.95
+2024-02-10,Interest Rates,0.72
+2024-02-10,Interest Rates,0.72
+2024-02-10,Interest Rates,0.72
+2024-02-13,Inflation,2.62
+2024-02-13,GDP,-1.56
+2024-02-13,GDP,-1.56
+2024-02-13,Inflation,2.62
+2024-02-13,GDP,-1.56
+2024-02-13,Inflation,2.62
+2024-02-14,Unemployment,7.01
+2024-02-14,Unemployment,7.01
+2024-02-14,Unemployment,7.01
+2024-02-19,Inflation,5.69
+2024-02-19,Inflation,5.69
+2024-02-19,Inflation,5.69
+2024-02-21,GDP,7.89
+2024-02-21,GDP,7.89
+2024-02-21,GDP,7.89
+2024-02-29,Unemployment,7.14
+2024-02-29,Unemployment,7.14
+2024-02-29,GDP,5.1
+2024-02-29,GDP,5.1
+2024-02-29,Unemployment,7.14
+2024-02-29,GDP,5.1
+2024-03-13,Unemployment,1.57
+2024-03-13,Unemployment,1.57
+2024-03-13,Unemployment,1.57
+2024-03-30,Unemployment,-0.83
+2024-03-30,Unemployment,-0.83
+2024-03-30,Unemployment,-0.83
+2024-04-01,Inflation,3.09
+2024-04-01,Inflation,3.09
+2024-04-01,Inflation,3.09
+2024-04-08,Inflation,3.04
+2024-04-08,Inflation,3.04
+2024-04-08,Inflation,3.04
+2024-04-11,Interest Rates,-0.95
+2024-04-11,Interest Rates,-0.95
+2024-04-11,Interest Rates,-0.95
+2024-04-14,Unemployment,4.06
+2024-04-14,Unemployment,4.06
+2024-04-14,Unemployment,4.06
+2024-04-17,GDP,7.08
+2024-04-17,GDP,7.08
+2024-04-17,GDP,7.08
+2024-04-18,Inflation,-2.71
+2024-04-18,Inflation,-2.71
+2024-04-18,Inflation,-2.71
+2024-04-20,GDP,3.82
+2024-04-20,GDP,3.82
+2024-04-20,GDP,3.82
+2024-04-26,Interest Rates,0.93
+2024-04-26,Interest Rates,0.93
+2024-04-26,Interest Rates,0.93
+2024-04-28,GDP,-3.94
+2024-04-28,GDP,-3.94
+2024-04-28,GDP,-3.94
+2024-04-30,GDP,9.6
+2024-04-30,GDP,9.6
+2024-04-30,GDP,9.6
+2024-05-05,GDP,4.14
+2024-05-05,GDP,4.14
+2024-05-05,GDP,4.14
+2024-05-07,Unemployment,-3.33
+2024-05-07,Unemployment,-3.33
+2024-05-07,Unemployment,-3.33
+2024-05-11,Inflation,8.7
+2024-05-11,Inflation,8.7
+2024-05-11,Inflation,8.7
+2024-05-14,Interest Rates,0.31
+2024-05-14,Interest Rates,0.31
+2024-05-14,Interest Rates,0.31
+2024-05-17,Inflation,6.88
+2024-05-17,Inflation,6.88
+2024-05-17,Inflation,6.88
+2024-05-19,Unemployment,7.63
+2024-05-19,Unemployment,7.63
+2024-05-19,GDP,-4.62
+2024-05-19,GDP,-4.62
+2024-05-19,GDP,-4.62
+2024-05-19,Unemployment,7.63
+2024-05-22,Interest Rates,-3.55
+2024-05-22,Interest Rates,-3.55
+2024-05-22,Interest Rates,-3.55
+2024-05-22,Unemployment,6.53
+2024-05-22,Unemployment,6.53
+2024-05-22,Unemployment,6.53
+2024-05-24,Interest Rates,9.47
+2024-05-24,Interest Rates,9.47
+2024-05-24,Interest Rates,9.47
+2024-06-01,Inflation,-1.51
+2024-06-01,Inflation,-1.51
+2024-06-01,Inflation,-1.51
+2024-06-01,Inflation,-1.51
+2024-06-04,Inflation,3.09
+2024-06-04,Inflation,3.09
+2024-06-04,Inflation,3.09
+2024-06-04,Inflation,3.09
+2024-06-09,GDP,-4.31
+2024-06-09,GDP,-4.31
+2024-06-09,GDP,-4.31
+2024-06-09,GDP,-4.31
+2024-06-11,Interest Rates,-2.86
+2024-06-11,Interest Rates,-2.86
+2024-06-11,Interest Rates,-2.86
+2024-06-11,Interest Rates,-2.86
+2024-06-20,GDP,9.31
+2024-06-20,GDP,9.31
+2024-06-20,GDP,9.31
+2024-06-20,GDP,9.31
+2024-06-21,Inflation,-2.55
+2024-06-21,Inflation,-2.55
+2024-06-21,Inflation,-2.55
+2024-06-21,Inflation,-2.55
+2024-06-23,GDP,-4.55
+2024-06-23,GDP,-4.55
+2024-06-23,GDP,-4.55
+2024-06-23,GDP,-4.55
+2024-07-08,Interest Rates,-4.71
+2024-07-08,Interest Rates,-4.71
+2024-07-08,Interest Rates,-4.71
+2024-07-08,Interest Rates,-4.71
+2024-07-13,Interest Rates,2.01
+2024-07-13,Interest Rates,2.01
+2024-07-13,Interest Rates,2.01
+2024-07-13,Interest Rates,2.01
+2024-07-18,Unemployment,3.66
+2024-07-18,Unemployment,3.66
+2024-07-18,Unemployment,3.66
+2024-07-18,Unemployment,3.66
+2024-07-19,Inflation,3.01
+2024-07-19,Inflation,3.01
+2024-07-19,Inflation,3.01
+2024-07-19,Inflation,3.01
+2024-07-20,Interest Rates,-3.82
+2024-07-20,Interest Rates,-3.82
+2024-07-20,Interest Rates,-3.82
+2024-07-20,Interest Rates,-3.82
+2024-07-27,Interest Rates,-0.98
+2024-07-27,Interest Rates,-0.98
+2024-07-27,Interest Rates,-0.98
+2024-07-27,Interest Rates,-0.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-01,GDP,3.98
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-03,Unemployment,5.53
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,1.94
+2024-08-08,Unemployment,-1.81
+2024-08-08,Unemployment,-1.81
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-13,Interest Rates,9.2
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-19,GDP,3.42
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-21,GDP,-1.57
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93
+2024-08-27,Interest Rates,9.93

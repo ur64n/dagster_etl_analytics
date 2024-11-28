@@ -1,0 +1,28 @@
+[32m2024-11-26 16:48:06 +0100[0m - dagster - [34mDEBUG[0m - tech_sentiment_job - 98e8c463-934c-4154-b6e9-284f56669b41 - 532606 - LOGS_CAPTURED - Started capturing logs in process (pid: 532606).
+[32m2024-11-26 16:48:06 +0100[0m - dagster - [34mDEBUG[0m - tech_sentiment_job - 98e8c463-934c-4154-b6e9-284f56669b41 - 532606 - load_and_prepare_sentiment2_data - STEP_START - Started execution of step "load_and_prepare_sentiment2_data".
+[32m2024-11-26 16:48:10 +0100[0m - dagster - [34mDEBUG[0m - tech_sentiment_job - 98e8c463-934c-4154-b6e9-284f56669b41 - 532606 - load_and_prepare_sentiment2_data - STEP_OUTPUT - Yielded output "result" of type "DataFrame". (Type check passed).
+[32m2024-11-26 16:48:10 +0100[0m - dagster - [34mDEBUG[0m - tech_sentiment_job - 98e8c463-934c-4154-b6e9-284f56669b41 - load_and_prepare_sentiment2_data - Writing file at: /home/urban/Projekty/dagster2/my-dagster-project/tmpfpjfd315/storage/load_and_prepare_sentiment2_data using PickledObjectFilesystemIOManager...
+[32m2024-11-26 16:48:11 +0100[0m - dagster - [34mERROR[0m - [31mtech_sentiment_job - 98e8c463-934c-4154-b6e9-284f56669b41 - 532606 - load_and_prepare_sentiment2_data - STEP_FAILURE - Execution of step "load_and_prepare_sentiment2_data" failed.
+
+dagster._core.errors.DagsterExecutionHandleOutputError: Error occurred while handling output "result" of step "load_and_prepare_sentiment2_data"::
+
+IsADirectoryError: [Errno 21] Is a directory: '/home/urban/Projekty/dagster2/my-dagster-project/tmpfpjfd315/storage/load_and_prepare_sentiment2_data'
+
+Stack Trace:
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/site-packages/dagster/_core/execution/plan/utils.py", line 54, in op_execution_error_boundary
+    yield
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/site-packages/dagster/_utils/__init__.py", line 482, in iterate_with_context
+    next_output = next(iterator)
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/site-packages/dagster/_core/execution/plan/execute_step.py", line 748, in _gen_fn
+    gen_output = output_manager.handle_output(output_context, output.value)
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/site-packages/dagster/_core/storage/upath_io_manager.py", line 446, in handle_output
+    self.dump_to_path(context=context, obj=obj, path=path)
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/site-packages/dagster/_core/storage/fs_io_manager.py", line 259, in dump_to_path
+    with path.open("wb") as file:
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/site-packages/upath/implementations/local.py", line 134, in open
+    return PosixPath.open(self, mode, buffering, encoding, errors, newline)
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/pathlib.py", line 1222, in open
+    return io.open(self, mode, buffering, encoding, errors, newline,
+  File "/home/urban/anaconda3/envs/myenv/lib/python3.8/pathlib.py", line 1078, in _opener
+    return self._accessor.open(self, flags, mode)
+[0m

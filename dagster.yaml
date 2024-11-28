@@ -1,0 +1,7 @@
+storage:
+  postgres:
+    postgres_db:
+      username: {"env": "PG_USERNAME"}
+      password: {"env": "PG_PASSWORD"}
+      hostname: {"env": "PG_HOSTNAME"}
+      db_name: {"env": "PG_DB"}
