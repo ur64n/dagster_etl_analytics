@@ -84,14 +84,6 @@ Follow these steps to run the project:
    - **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
 
 ## Visualisation results of the above pipelines with short descriptions
-<h3 align="center">Aggregated Sentiment vs Stock Price</h3>
-
-<p align="center">
-  <img src="data/results/aggregated_sentiment_vs_stock_price.png" alt="Aggregated Sentiment vs Stock Price">
-</p>
-
-The line chart depicts the relationship between aggregated sentiment scores and corresponding stock price movements over time. Sentiment scores are calculated from various text sources, including news articles and social media, and are represented on a standardized scale. The stock price is plotted alongside to highlight potential correlations or trends. This visualization provides insights into how market sentiment may influence or reflect stock price changes, offering valuable data for sentiment-driven investment strategies.
-
 
 <h3 align="center">Seasonity</h3>
 
@@ -125,6 +117,14 @@ The color gradient from blue to red represents the strength and direction of the
 </p>
 
 This scatter plot visualizes the relationship between volume anomalies and subsequent price changes over time. Each point represents a significant change in trading volume and its impact on future stock price changes, measured in percentage. The x-axis shows the date, while the y-axis indicates the percentage change in price following the anomaly. The plot highlights how volume anomalies can lead to both positive and negative price movements in the following months.
+
+<h3 align="center">Sentiment vs Stock Price</h3>
+
+<p align="center">
+  <img src="data/results/aggregated_sentiment_vs_stock_price.png" alt="Aggregated Sentiment vs Stock Price">
+</p>
+
+The line chart depicts the relationship between aggregated sentiment scores and corresponding stock price movements over time. Sentiment scores are calculated from various text sources, including news articles and social media, and are represented on a standardized scale. The stock price is plotted alongside to highlight potential correlations or trends. This visualization provides insights into how market sentiment may influence or reflect stock price changes, offering valuable data for sentiment-driven investment strategies.
 
 <h3 align="center">Sentiment</h3>
 
