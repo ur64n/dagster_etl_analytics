@@ -1,10 +1,8 @@
 # ETL Project with Macroeconomic and Stock Price Analysis
 
-## Project based on PySpark-FAKER Data
-
 ## Project Description
 
-This project is (Extract, Transform, Load) system built using Dagster, designed to analyze macroeconomic data and stock prices. The goal is to understand the impact of macroeconomic indicators, trading volume, and news sentiment on stock prices across various sectors.
+This project based on PySpark-FAKER Data. (Extract, Transform, Load) system built using Dagster, designed to analyze macroeconomic data and stock prices. The goal is to understand the impact of macroeconomic indicators, trading volume, and news sentiment on stock prices across various sectors.
 
 ## Project Structure
 
