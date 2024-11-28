@@ -89,7 +89,7 @@ Follow these steps to run the project:
 
 The bar chart illustrates the seasonal patterns in average stock close prices across different sectors. Each sector is represented by two bars: one for the month with the highest average close price and another for the month with the lowest. The sectors included are Automotive, Consumer, and Technology, each with distinct color coding for easy differentiation. This visualization helps identify the months where each sector experiences peak and trough stock prices, providing insights into potential seasonal trends.
 
-### Correlation
+<h3 align="center">Correlation</h3>
 ![Correlation Matrix](data/results/correlation_matrix.png)
 This heatmap visualizes the correlation between various macroeconomic indicators and average stock closing prices. The matrix includes:
 
@@ -100,17 +100,17 @@ This heatmap visualizes the correlation between various macroeconomic indicators
 
 The color gradient from blue to red represents the strength and direction of the correlations, with red indicating a strong positive correlation and blue indicating a strong negative correlation.
 
-### Trading Volume
+<h3 align="center">Trading Volume</h3>
 ![Volume Anomalies Price Impact](data/results/volume_anomalies_price_impact.png)
 
 This scatter plot visualizes the relationship between volume anomalies and subsequent price changes over time. Each point represents a significant change in trading volume and its impact on future stock price changes, measured in percentage. The x-axis shows the date, while the y-axis indicates the percentage change in price following the anomaly. The plot highlights how volume anomalies can lead to both positive and negative price movements in the following months.
 
-### Sentiment
+<h3 align="center">Sentiment</h3>
 ![Sentiment Impact on Price Change](data/results/sentiment_impact_on_price_change.png)
 
 Correlation matrix illustrating the relationships between macroeconomic indicators and stock prices. The matrix uses a color gradient to represent correlation values, ranging from -1 to 1. Key indicators include inflation, unemployment, interest rates, and average stock close prices. The matrix helps identify the strength and direction of relationships between these variables, providing insights into how macroeconomic factors may influence stock market performance.
 
-### Sensor
+<h3 align="center">Sensor</h3>
 ![Price Change Outliers Boxplot](data/results/price_change_outliers_boxplot.png)
 
 This boxplot visualizes the distribution of price changes in percentage terms. The central box represents the interquartile range (IQR), with the line inside indicating the median price change. Whiskers extend to show the range of the data, excluding outliers, which are plotted as individual points beyond the whiskers. The plot highlights significant deviations in price changes, providing insights into potential anomalies or extreme values in the dataset.
