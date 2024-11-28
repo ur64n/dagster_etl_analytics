@@ -33,17 +33,15 @@ This project is (Extract, Transform, Load) system built using Dagster, designed 
    - **load_and_prepare_sentiment_data**: Prepares data for sentiment analysis.
    - **analyze_sentiment**: Analyzes news sentiment.
    - **visualize_sentiment_impact**: Visualizes the impact of sentiment on stock prices.
-   - **Price Change Sensor**: Monitors significant changes in stock prices based on sentiment analysis. It is part of the ETL pipeline and is specifically linked to the `tech_sentiment_job`. This sensor continuously checks for anomalies in price changes and triggers further actions if certain conditions are met.
+   - **Price Change Sensor**: Monitors significant changes in stock prices based on sentiment analysis.
+   - It is part of the ETL pipeline and is specifically linked to the `tech_sentiment_job`. This sensor continuously checks for anomalies in price changes and triggers further actions if certain conditions are met.
+   - 
+   The **Price Change Sensor** is designed to monitor significant changes in stock prices based on sentiment analysis.
 
-### Sensor: Price Change Sensor
-
-The **Price Change Sensor** is designed to monitor significant changes in stock prices based on sentiment analysis.
-
-### Functionality
-
-- **Data Monitoring**: Reads data from a CSV file containing the results of sentiment analysis on stock prices.
-- **Change Detection**: Calculates a hash of the current data to detect any changes since the last evaluation.
-- **Threshold Evaluation**: Checks for any price changes that exceed a predefined threshold (e.g., 10%).
-- **Outlier Handling**: Stores outliers for further analysis.
-- **Visualization Trigger**: Initiates the visualization process to create a boxplot of the detected price change outliers.
-- **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
+6. **PCS-Functionality**:
+   - **Data Monitoring**: Reads data from a CSV file containing the results of sentiment analysis on stock prices.
+   - **Change Detection**: Calculates a hash of the current data to detect any changes since the last evaluation.
+   - **Threshold Evaluation**: Checks for any price changes that exceed a predefined threshold (e.g., 10%).
+   - **Outlier Handling**: Stores outliers for further analysis.
+   - **Visualization Trigger**: Initiates the visualization process to create a boxplot of the detected price change outliers.
+   - **Run Request**: Generates a new run request to handle the detected changes if conditions are met.
