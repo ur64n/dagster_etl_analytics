@@ -85,9 +85,13 @@ Follow these steps to run the project:
 
 ## Visualisation results of the above pipelines with short descriptions
 <h3 align="center">Seasonity</h3>
-![Seasonality Analysis](data/results/seasonality_analysis.png)
+
+<p align="center">
+  <img src="data/results/seasonality_analysis.png" alt="Seasonality Analysis">
+</p>
 
 The bar chart illustrates the seasonal patterns in average stock close prices across different sectors. Each sector is represented by two bars: one for the month with the highest average close price and another for the month with the lowest. The sectors included are Automotive, Consumer, and Technology, each with distinct color coding for easy differentiation. This visualization helps identify the months where each sector experiences peak and trough stock prices, providing insights into potential seasonal trends.
+
 
 <h3 align="center">Correlation</h3>
 ![Correlation Matrix](data/results/correlation_matrix.png)
